@@ -1,0 +1,15 @@
+[submodule "MakeMyTrip"]
+	path = MakeMyTrip
+	url = https://github.com/sureshthirusr/MakeMyTrip.git
+
+[submodule "Plawright-Testing"]
+	path = Plawright-Testing
+	url = https://github.com/santhoshkumar4sgr-web/Plawright-Testing.git
+
+[submodule "Trip/MakeMyTrip"]
+	path = Trip/MakeMyTrip
+	url = https://github.com/sureshthirusr/MakeMyTrip.git
+
+[submodule "newcase/MakeMyTrip"]
+	path = newcase/MakeMyTrip
+	url = https://github.com/sureshthirusr/MakeMyTrip.git
